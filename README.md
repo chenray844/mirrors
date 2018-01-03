@@ -23,7 +23,11 @@ index-url = http://pypi.douban.com/simple
 ```
 
 ## apm
-install thrid packages in atom
+install third packages in atom
 ```
 apm config set registry https://registry.npm.taobao.org
 ```
+
+## docker
+add docker mirrors
+<img src='images/docker.png'></img>
