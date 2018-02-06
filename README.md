@@ -1,6 +1,9 @@
 # mirrors
 use mirrors in china to install some thrid packages
 
+## index 
+https://mirrors.ustc.edu.cn/help/index.html
+
 ## Homebrew
 ```
 export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.ustc.edu.cn/homebrew-bottles"
